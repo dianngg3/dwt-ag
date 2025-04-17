@@ -35,8 +35,7 @@
               "title": "棱柱上的八点六面体："
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "棱柱上的八点六面体：.md",
+                "file": "证明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "棱柱上的八点六面体： 的大纲"
+              "title": "证明 的大纲"
             }
           }
         ],
@@ -184,10 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a6ceb7fbb6548da5",
+  "active": "7e12df35d6ff410f",
   "lastOpenFiles": [
-    "证明.md",
     "棱柱上的八点六面体：.md",
+    "证明.md",
     "Welcome.md",
     "六面体.md",
     "0071A3EB.png",
